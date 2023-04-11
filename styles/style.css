@@ -98,8 +98,8 @@ body::after{
 .card-exp-data{
     font-size: 1.3rem;
 }
-.card-owner{
+/* .card-owner{
     padding: 20px;
     background-color:  transparent;
     backdrop-filter: blur(60px);
-}
+} */
